@@ -11,7 +11,7 @@ function App() {
       <Calculator />
       <figure className='flex items-center justify-center md:col-span-1'>
         <img
-          src='../src/assets/images/image-man-eating.webp'
+          src='./src/assets/images/image-man-eating.webp'
           alt='man eating'
           className='lg:max-w-[564px] lg:max-h-[533px] lg:mb-4'></img>
       </figure>
